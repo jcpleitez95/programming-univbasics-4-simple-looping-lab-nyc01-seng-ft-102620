@@ -18,6 +18,6 @@ def output_array(array)
   end
 end
 
-def return_sting_array(string)
+def return_string_array(string)
   array.join(" ")
 end
