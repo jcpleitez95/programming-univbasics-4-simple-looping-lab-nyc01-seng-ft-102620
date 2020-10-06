@@ -1,4 +1,4 @@
-def loop_message_five_times(String)
+def loop_message_five_times(string)
   5.times do string
   puts string
   end
