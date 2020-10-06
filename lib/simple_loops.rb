@@ -19,7 +19,6 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  string_array = []
-  array.each do 
+  string_array = array.map(&:to_s)
   return string_array
 end
