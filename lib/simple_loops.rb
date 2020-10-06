@@ -19,5 +19,5 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  return_array = [array.join(", ")]
+  each [array.join(", ")]
 end
