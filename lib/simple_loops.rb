@@ -17,3 +17,7 @@ def output_array(array)
     counter += 1 
   end
 end
+
+def return_sting_array(string)
+  array.join(" ")
+end
