@@ -1,6 +1,7 @@
-def loop_message_five_times(sting)
-  string = "Hello World."
+def loop_message_five_times(String)
   5.times do string
   puts string
   end
 end
+
+def loop_message_n_times
